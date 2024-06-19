@@ -1,3 +1,17 @@
+
+$color-1: #d0d0c3;
+$color-2: #e9e9e9;
+$color-3: #c4a380;
+$color-4: #715846;
+$color-5: #271811;
+
+$color-6: #54331d;
+$color-7: #f9f5e3;
+
+
+$tan: rgb(229,	222, 196); // I like color 7 better
+$soft-blue: rgb(150, 177,	173);
+
 html,
 body {
     height: 100%;
@@ -18,6 +32,19 @@ body {
     min-height: 100vh;
     background-color: #27262b;
     border-right: 2px solid #44434d;
+
+    p {
+        color: $tan;
+    }
+}
+
+.site-title {
+    padding: 0;
+}
+
+.site-header {
+    height: auto;
+    max-height: none;
 }
 
 .animation-wrap {

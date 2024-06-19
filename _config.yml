@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swellfellaa.quest" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  joshdelgado
+logo: "/assets/img/swellfellaa-logo-gen2.webp"
 
 # Build settings
 theme: just-the-docs
