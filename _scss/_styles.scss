@@ -5,4 +5,11 @@
     object-fit: contain;
     border-radius: 100%;
     margin: 0 auto;
+
+    &--small {
+        height: 7rem;
+        width: 7rem;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+    }
 }

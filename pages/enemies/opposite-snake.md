@@ -11,6 +11,9 @@ After watching Last Week Tonight's educate the world to the existence of Opposit
 
 To learn more about these amazing creatures, check out their [official site](https://oppositesnakes.com).
 
+<img class="swellfellaa swellfellaa--small" src="/assets/img/swellfellaa-gen1.webp" aria-hide="true">
+<!-- TODO: Real image here as page break -->
+
 <object data="/assets/homebrew/opposite-snake/opposite-snake.pdf#toolbar=1" type="application/pdf" width="100%" height="600px">
     <p>Unable to display PDF file. <a href="/assets/homebrew/opposite-snake/opposite-snake.pdf">Download</a> instead.</p>
 </object>
