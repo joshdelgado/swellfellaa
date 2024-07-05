@@ -2,7 +2,7 @@
 layout: page
 title: Opposite Snake
 parent: Enemies
-permalink: /opposite-snake/
+permalink: /enemies/opposite-snake/
 ---
 
 # Opposite Snake
