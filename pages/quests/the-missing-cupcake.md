@@ -10,12 +10,8 @@ Here I will have a small introduction about this thing. Maybe I won't. Who knows
 
 ## PDF
 <object data="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf#toolbar=1" type="application/pdf" width="100%" height="600px">
-    <iframe src="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf#toolbar=1" width="100%" height="600px">
-        <p>Unable to display PDF file. <a href="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf">Download</a> instead.</p>
-    </iframe>
+    <a href="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf">
+        <iframe src="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf#toolbar=1" width="100%" height="600px">
+        </iframe>
+    </a>
 </object>
-
-
-<iframe src="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf#toolbar=1" width="100%" height="600px">
-    <p>Unable to display PDF file. <a href="/assets/homebrew/the-missing-cupcake/the-missing-cupcake.pdf">Download</a> instead.</p>
-</iframe>
