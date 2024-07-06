@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: homebrew
 title: Summoner
 parent: Classes
-permalink: /summoner/
 ---
 
-Summoner
+Channeler

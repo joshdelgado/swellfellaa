@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
 sass:
   sass_dir: _scss
+permalink: :path/:title
 
 # Conversion
 markdown:    kramdown

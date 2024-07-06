@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: homebrew
 title: Mapo & Omma
 parent: NPCs
-permalink: /Mapo-and-Omma/
 ---
 
 Puppies IRL

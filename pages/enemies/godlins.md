@@ -1,8 +1,5 @@
 ---
-layout: page
+layout: homebrew
 title: Godlins
 parent: Enemies
-permalink: /godlins/
 ---
-
-Godlins
